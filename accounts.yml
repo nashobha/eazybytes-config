@@ -2,7 +2,7 @@ build:
   version: "3.O"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local shobha APIs"
+  message: "Welcome to EazyBank accounts related local Shobha APIs"
   contactDetails: 
     name: "Shobha"
     email: "nashobha123@gmail.com"
